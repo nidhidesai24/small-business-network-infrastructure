@@ -57,3 +57,23 @@ Tested network connectivity using ICMP ping, inspected router and switch configu
 ## Project Files
 
 The repository contains the final Cisco Packet Tracer topology and screenshots documenting network configuration and verification.
+
+
+## Network Topology
+
+![Small Business Network Topology](screenshots/network-topology.png)
+
+## Configuration Screenshots
+
+### VLAN Segmentation
+![VLAN Configuration](screenshots/vlan-configuration.png)
+
+### Router Interfaces and Inter-VLAN Routing
+![Router Interfaces](screenshots/router-interfaces.png)
+
+### Company Intranet
+![Company Intranet](screenshots/company-intranet.png)
+
+### Network Security — Access Control Lists
+![Security ACL](screenshots/security-acl.png)
+  
